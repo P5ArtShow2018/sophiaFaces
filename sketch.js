@@ -9,15 +9,15 @@ var women5
 //var colors = []
 
 function preload() {
-  women1 = loadImage ("assets/Unknown-1.jpeg")
-  women2 = loadImage ("assets/Unknown.jpeg")
-  man1 = loadImage ("assets/Unknown-4.jpeg")
-  man2 = loadImage ("assets/Unknown-3.jpeg")
-  women3 = loadImage ("assets/Unknown-2.jpeg")
-  man3 = loadImage ("assets/photo1.png")
-  women4 = loadImage ("assets/photo2.png")
-  man4 = loadImage ("assets/photo3.png")
-  women5 = loadImage ("assets/photo4.png")
+  women1 = loadImage ("Assets/Unknown-1.jpeg")
+  women2 = loadImage ("Assets/Unknown.jpeg")
+  man1 = loadImage ("Assets/Unknown-4.jpeg")
+  man2 = loadImage ("Assets/Unknown-3.jpeg")
+  women3 = loadImage ("Assets/Unknown-2.jpeg")
+  man3 = loadImage ("Assets/photo1.png")
+  women4 = loadImage ("Assets/photo2.png")
+  man4 = loadImage ("Assets/photo3.png")
+  women5 = loadImage ("Assets/photo4.png")
 }
 function setup() {
   createCanvas(522,544);
